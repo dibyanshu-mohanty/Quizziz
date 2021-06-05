@@ -1,16 +1,7 @@
-# quiz_app
+# Quizziz
 
-A new Flutter project.
+A Flutter application containing questions impoertant for developers and gives you the score at the end.
 
-## Getting Started
+## UI of the app
+![Quizziz UI](https://user-images.githubusercontent.com/72657275/120881073-280fa600-c5ec-11eb-8368-5eb0ba0bf6be.jpeg)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
